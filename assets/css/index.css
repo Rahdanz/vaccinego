@@ -1,0 +1,246 @@
+.navbar-brand{
+    font-family: viga;
+    font-size: 30px;
+    color: #f44c4c !important;
+}
+.nav-link{
+    margin-right: 10px;
+}
+.nav-link:hover{
+    border-bottom:2px solid #f44c4c; 
+    color: black !important;
+}
+.jumbotron{
+    background-color: white !important;
+    margin-top: 100px !important;
+}
+.text-primary{
+        color:#c61919 !important;
+}
+.text-secondary{
+        color: #f65757 !important;
+}
+div.container h4{
+        color:white !important;
+}
+div.container p{
+        font-family: viga !important;
+        color:grey !important;
+        font-size: 18px;
+
+}
+div.container-fluid div.container-fluid{
+    text-align: center;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+/* efek hover */
+.efek:hover{
+    transform: translateY(-10px)!important ;
+    color:#c61919;
+    text-decoration: none !important;
+    
+}
+img.tengah{
+    text-align: center !important;
+}
+.pinky-box{
+    background-color:#f6b9b9 ;
+}
+.border-white{
+    background-color: antiquewhite !important;
+}
+span.text-secondary{
+    color:#f44c4c !important;
+    font-family:viga !important;
+    
+}
+.border{
+    border:3px white solid !important;
+    box-shadow: grey 2px !important;
+}
+div.container p.paragraf{
+    font-family: viga !important;
+    color:darkslategrey !important;
+    font-size: 15px ;
+}
+.btn-primary{
+    background-color: #f44c4c !important;
+    border: 1px solid #f44c4c !important;
+}
+.btn-primary:hover{
+    background-color: #c61919 !important;
+}
+.ukuran{
+    font-size: 15px !important;
+}
+.smoke{
+    background-color: whitesmoke !important;
+}
+
+
+h5.title a{
+    color: #f44c4c !important;
+    text-decoration: none !important;
+}
+div.border-white:hover a{
+    color:#c61919 !important;
+    text-decoration: none !important;
+}
+html{
+    scroll-behavior: smooth !important;
+}  
+.kotak{
+    width: 375.000px;
+    padding:8px;
+    border:3px;
+    margin:8px;
+    box-sizing: border-box;
+    height: 110.500px;
+    transition: 0.5s !important;
+}
+
+
+
+/* page 2 */
+button a{
+    text-decoration: none !important;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 13px !important;
+}
+button a:hover{
+    text-decoration:none !important;
+    color:white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 13px !important;
+}
+
+td button a{
+    text-decoration: none !important;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px !important;
+}
+td button a:hover{
+    text-decoration:none !important;
+    color:white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px !important;
+}
+/* form page */
+.containerx{
+    width:800px;
+    padding: 5px;
+    margin: auto;
+}
+.jc{
+    justify-content: center !important;
+}
+.fotn{
+    font-family: poppins !important;
+    color: black !important;
+    font-size: 25px !important;
+    font-style: bold !important;
+    
+}
+.fx-btn:hover{
+    background-color: greenyellow !important;
+    border: greenyellow !important;
+    color: black !important;
+}
+
+
+.coba{
+    background-color: linear-gradient(red,blue);
+    width: 500px;
+    height: 500px;
+}
+.flexi{
+    display :flex !important;
+}
+.card{
+    transition: 0.5s !important;
+}
+a.berita{
+    color: #f44c4c;
+    text-decoration: none;
+    text-transform: none;
+}
+div.cards:hover a.berita{
+    color:#c61919 !important;
+}
+
+
+
+@media  screen and (max-width:1280px) {
+    .flexi{
+        display: block !important;
+        
+    }
+
+    .kotak{
+        width: 250.000px;
+        padding:8px;
+        border:3px;
+        margin:auto !important;
+        margin-top: 5px !important ;
+        box-sizing: border-box;
+        height: 165.500px;
+        transition: 0.5s !important;
+        text-align: center !important;
+    }
+
+
+   
+    .efek:hover{
+        transform: translateY(0px)!important ;
+    }
+    .ukg{
+        width: 250px;
+    }
+    .xs{
+        display: block !important;
+        text-align: left !important;
+        
+    }
+    .pl{
+        margin-left: -13px !important;
+    }
+}
+/* admin page login
+div.jumbotron div#login{
+ border:2px solid black !important;
+ width: 50% !important;;  
+} */
+
+
+
+
+
+/* bantuan
+div.tab a:link{
+    text-decoration: none;
+}
+div.navbar div.tab a:hover{
+    color: whitesmoke;
+    
+}
+div.navbar div.tab a:active{
+    color:#f44c4c;
+    text-decoration: none;
+}
+div.tab a:visited{
+    color:#f44c4c;
+    text-decoration: none;
+}
+div.tab a:focus{
+    box-shadow: blue;
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+*/
+
+
+
